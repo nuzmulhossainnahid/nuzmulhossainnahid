@@ -50,8 +50,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nuzmul-hossain-nahid-b7a28020b/"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nuzmul-hossain-nahid-b7a28020b/"><img src="https://img.shields.io/badge/-Nahid%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hasannahidnazmul@gmail.com"><img src="https://img.shields.io/badge/-hasannahidnazmul@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/nuzmulhossainnahid/?hl=en"><img src="https://img.shields.io/badge/-Nahid-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100011524358252"><img src="https://img.shields.io/badge/-Nahid-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
