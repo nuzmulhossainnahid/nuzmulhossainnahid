@@ -6,9 +6,9 @@
 <p align="center" width="150px"> I have just kickstarted my career as a Web developer intern with study Computer Science and Engineering Dept. at Dhaka International University,Bangladesh</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center"><img src="https://profile-counter.glitch.me/nuzmulhossainnahid/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuzmulhossainnahid&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=nuzmulhossainnahid&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=nuzmulhossainnahid&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 ### 🛠 &nbsp;Tech Stack
