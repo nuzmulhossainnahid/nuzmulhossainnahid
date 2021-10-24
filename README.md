@@ -50,6 +50,13 @@
 
 #### Coding Stats
 <!-- START_SECTION:waka-->
+Week: 11 July, 2020 - 17 July, 2020
+Python      8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
+Go          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Markdown    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Docker      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+YAML        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+
 <!--END_SECTION:waka -->
 
 ### :link: &nbsp;Connect with me
