@@ -48,11 +48,9 @@
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 <br>
 
-<h2> Stuff I worked on last week </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nuzmulhossainnahid&compact=True&theme=radical"/>
-</a>
-<br>
+#### Coding Stats
+<!-- START_SECTION:waka-->
+<!--END_SECTION:waka -->
 
 ### :link: &nbsp;Connect with me
 
