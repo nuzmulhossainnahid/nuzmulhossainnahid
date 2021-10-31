@@ -54,7 +54,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=huzmulhossainnahid&compact=True&theme=radical"/>
 </a>
 <br>
-
+<figure><embed src="https://wakatime.com/share/@huzmulhossainnahid/c0594f02-81c2-4793-958b-9b2fd7d6d42a.svg"></embed></figure>
 
 
 ### :link: &nbsp;Connect with me
